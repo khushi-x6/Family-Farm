@@ -1,0 +1,10 @@
+#ifndef MEMORYWIDGETH_H
+#define MEMORYWIDGETH_H
+
+class memorywindow
+{
+public:
+    memorywindow();
+};
+
+#endif // MEMORYWIDGETH_H
